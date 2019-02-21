@@ -1,0 +1,3 @@
+[submodule "arduino/FlexActuator"]
+	path = arduino/FlexActuator
+	url = git@github.com:robotpsu/arduino-flexact.git
